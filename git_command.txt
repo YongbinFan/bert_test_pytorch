@@ -1,4 +1,8 @@
 // go into git bash
 git init
+// add all files to your git 
+git add .
 // commit
 git commit
+// check status
+git status
