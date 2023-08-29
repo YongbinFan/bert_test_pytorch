@@ -1,0 +1,5 @@
+cmd
+// go into base environment of conda
+activate
+// go into different environment
+conda activate pytorch-gpu

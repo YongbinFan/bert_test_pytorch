@@ -1,0 +1,4 @@
+// go into git bash
+git init
+// commit
+git commit
